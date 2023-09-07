@@ -2,7 +2,7 @@
 
 This is the first Task in the HNG ZURI INTERNSHIP for the Mobile Track. This was built entirely using Kotlin.
 
-# Technical Requiements
+# Technical Requirements
 
 These are the setup instructions to run this Project. Ensure you have the Android Studio IDE Installed. If you
 don't, you can download it from here [Download Android Studio](https://developer.android.com/studio)
