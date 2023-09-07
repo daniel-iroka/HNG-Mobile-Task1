@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/personalDetailsFragment">
+
+    <fragment
+        android:id="@+id/personalDetailsFragment"
+        android:name="com.example.personalslackdetails.PersonalDetailsFragment"
+        android:label="fragment_personal_details"
+        tools:layout="@layout/fragment_personal_details" >
+        <action
+            android:id="@+id/action_personalDetailsFragment_to_githubProfileFragment"
+            app:destination="@id/githubProfileFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/githubProfileFragment"
+        android:name="com.example.personalslackdetails.GithubProfileFragment"
+        android:label="fragment_github_profile"
+        tools:layout="@layout/fragment_github_profile" >
+        <action
+            android:id="@+id/action_githubProfileFragment_to_personalDetailsFragment"
+            app:destination="@id/personalDetailsFragment" />
+    </fragment>
+</navigation>

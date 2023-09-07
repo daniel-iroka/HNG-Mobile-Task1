@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersonalSlackDetails</string>
+    <string name="open_github">Open Github</string>
+    <string name="name">Daniel Chinedum Iroka</string>
+    <string name="user_display_picture">User display picture</string>
+    <string name="github_profile">Github Profile</string>
+    <string name="slack_username">Slack Username :</string>
+</resources>
