@@ -1,6 +1,7 @@
 # HNG-MOBILE-TASK1
 
 This is the first Task in the HNG ZURI INTERNSHIP for the Mobile Track. This was built entirely using Kotlin.
+Appetize Link for the Project [Appetize.io](https://appetize.io/app/itvrwt7v5r3s6wbvgx3dzapf2u?device=pixel6&osVersion=13.0&scale=75)
 
 # Technical Requirements
 
