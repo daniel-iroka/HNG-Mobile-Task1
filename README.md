@@ -28,7 +28,7 @@ Android Gradle Plugin Version : '7.4.0-beta01'
 
 ## Important Note
 
-Layout Preview does not show up sometimes when opening Android Studio for the first time due to an internal
+Layout Preview may not show up sometimes when opening Android Studio for the first time due to an internal
 bug. In case this happens, an easy fix can be achieved by one of this two below :
 - Force Refresh Layout in the Design Tab.
 - Clean Project or Clean and Rebuild.
