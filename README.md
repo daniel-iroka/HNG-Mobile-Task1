@@ -4,8 +4,8 @@ This is the first Task in the HNG ZURI INTERNSHIP for the Mobile Track. This was
 
 # Technical Requiements
 
-These are the setup instructions to run this Project. Ensure you have the Android Studio IDE Installed. If you-
-don't, download from here [Download Android Studio](https://developer.android.com/studio)
+These are the setup instructions to run this Project. Ensure you have the Android Studio IDE Installed. If you
+don't, you can download it from here [Download Android Studio](https://developer.android.com/studio)
 
 Ensure these Dependencies are also in the Project :
 ```
@@ -23,4 +23,5 @@ Other details include :
 ```
 minSdk 24
 targetSdk 32
+Android Gradle Plugin Version : '7.4.0-beta01'
 ```
